@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">frontend developer 💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF6MmV5Mnp5bmU2MzY2cm12bHM3ZzJoZWViczR2MTg1dm4wNTlncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RPHKv4VD4bthuO9NH0/giphy.gif)">
 
 - 🔭 I’m currently working on [JustClickBuild](https://justclickbuild.com)
 
