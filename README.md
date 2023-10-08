@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">frontend developer 💻</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on [JustClickBuild](https://justclickbuild.com)
 
