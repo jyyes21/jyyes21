@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **vue.js, php**
 
-- 👨‍💻 All of my projects are available at [https://jonasgarnero-5574c2299225.herokuapp.com](https://jonasgarnero-5574c2299225.herokuapp.com)
+- 👨‍💻 All of my projects are available at [jonas-garnero.fr](https://jonas-garnero.fr)
 
 - 📫 How to reach me **jonas.garnero@gmail.com**
 
